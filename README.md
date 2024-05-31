@@ -10,7 +10,7 @@
    - [Question 6](#question-6)
    - [Question 7](#question-7)
 2. [Section 2: Practical Questions with Dataset](#section-2-practical-questions-with-dataset)
-   - [Question 8 to 20]- [JUPYTER NOTEBOOK](#jupyter-notebook)
+   - [Question 8 to 20] [JUPYTER NOTEBOOK](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/Descriptive%20Statistics-Jupyter%20Notebook.ipynb)
 3. [Deliverables for Solution](#deliverables-for-solution)
 
 ## Section 1: Theoretical Questions
