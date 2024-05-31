@@ -132,24 +132,24 @@ Calculate the z score of the following numbers:
 X = [4.5, 6.2, 7.3, 9.1, 10.4, 11]
 
 - To calculate the z-score of each number in the given list, we use the formula:
-Z=X−μ/ σ
-X is the value in the list,
-μ is the mean of the list,
-σ is the standard deviation of the list.
-Mean (μ): 
-μ =(4.5+6.2+7.3+9.1+10.4+11)/6
-μ =8.08
-To calculate the standard deviation, we will first find the variance, then take the square root.
-Variance=((4.5−8.08)2+(6.2−8.08)2+(7.3−8.08)2+(9.1−8.08)2+(10.4−8.08)2+(11−8.08)2) / 6
-Variance=6.00772
-Standard deviation, σ= Cube root (6.00772) = 2.450
-So, for 
-X= 4.5, Z = −1.457
-X = 6.2, Z = −0.768
-X = 7.3, Z = −0.325
-X = 9.1, Z = 0.416
-X = 10.4, Z = 0.945
-X = 11, Z = 1.188
+##### Z=X−μ/ σ
+##### X is the value in the list,
+##### μ is the mean of the list,
+##### σ is the standard deviation of the list.
+##### Mean (μ): 
+##### μ =(4.5+6.2+7.3+9.1+10.4+11)/6
+##### μ =8.08
+- To calculate the standard deviation, we will first find the variance, then take the square root.
+##### Variance=((4.5−8.08)2+(6.2−8.08)2+(7.3−8.08)2+(9.1−8.08)2+(10.4−8.08)2+(11−8.08)2) / 6
+##### Variance=6.00772
+##### Standard deviation, σ= Cube root (6.00772) = 2.450
+##### So, for 
+##### X= 4.5, Z = −1.457
+##### X = 6.2, Z = −0.768
+##### X = 7.3, Z = −0.325
+##### X = 9.1, Z = 0.416
+##### X = 10.4, Z = 0.945
+##### X = 11, Z = 1.188
 
 
 
