@@ -151,5 +151,30 @@ X = [4.5, 6.2, 7.3, 9.1, 10.4, 11]
 ##### X = 10.4, Z = 0.945
 ##### X = 11, Z = 1.188
 
+## Section 2: Practical Questions with Dataset
+You are expected to perform statistical analysis for the Bank Personal Loan Modelling dataset. Below is the data dictionary:
+
+| ID               | Customer ID                                             |
+|------------------|---------------------------------------------------------|
+| Age              | Customer's age in completed years                       |
+| Experience       | # years of professional experience                      |
+| Income           | Annual income of the customer ($000)                    |
+| ZIPCode          | Home Address ZIP code.                                  |
+| Family           | Family size of the customer                             |
+| CCAvg            | Avg. spending on credit cards per month ($000)          |
+| Education        | Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional |
+| Mortgage         | Value of house mortgage if any. ($000)                  |
+| Personal Loan    | Did this customer accept the personal loan offered in the last campaign? |
+| Securities Account | Does the customer have a securities account with the bank? |
+| CD Account       | Does the customer have a certificate of deposit (CD) account with the bank? |
+| Online           | Does the customer use internet banking facilities?       |
+| CreditCard       | Does the customer use a credit card issued by UniversalBank? |
+
+For questions 8 to 20, we'll be using the Bank Personal Loan Modelling dataset and Jupyter Notebook for answer the questions.
+
+[JUPYTER NOTEBOOK]()
+
+
+
 
 
