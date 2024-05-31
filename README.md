@@ -10,7 +10,7 @@
    - [Question 6](#question-6)
    - [Question 7](#question-7)
 2. [Section 2: Practical Questions with Dataset](#section-2-practical-questions-with-dataset)
-   - [Question 8 to 20](#JUPYTER-NOTEBOOK)
+   - [Question 8 to 20]- [JUPYTER NOTEBOOK](#jupyter-notebook)
 3. [Deliverables for Solution](#deliverables-for-solution)
 
 ## Section 1: Theoretical Questions
