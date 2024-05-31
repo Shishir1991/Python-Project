@@ -80,15 +80,17 @@ The modal class interval is the interval "35 to 45 years" because it has the hig
 
 #### e. What is the median class interval of age?
 To find the median class interval, we locate the class interval containing the median age, which is the interval where the cumulative frequency first exceeds (or equals) half of the total frequency.
+
 Cumulative Frequency:
-    5 to 15 years: 6
-   15 to 25 years: 6 + 11 = 17
-   25 to 35 years: 17 + 21 = 38
-   35 to 45 years: 38 + 23 = 61
-   45 to 55 years: 61 + 14 = 75
-   55 to 65 years: 75 + 5 = 80
-   Since the total frequency is 80, the median would be the 40th value. Looking at the cumulative frequencies, the interval "35 to 45 years" (from 38 to 61) contains the 40th value.
-   So, the median class interval of age is "35 to 45 years."
+- 5 to 15 years: 6
+- 15 to 25 years: 6 + 11 = 17
+- 25 to 35 years: 17 + 21 = 38
+- 35 to 45 years: 38 + 23 = 61
+- 45 to 55 years: 61 + 14 = 75
+- 55 to 65 years: 75 + 5 = 80
+
+  Since the total frequency is 80, the median would be the 40th value. Looking at the cumulative frequencies, the interval "35 to 45 years" (from 38 to 61) contains the 40th value.
+  So, the median class interval of age is "35 to 45 years."
 
 
 
