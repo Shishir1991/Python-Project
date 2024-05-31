@@ -12,6 +12,8 @@
 2. [Section 2: Practical Questions with Dataset](#section-2-practical-questions-with-dataset)
    - [Question 8 to 20] [JUPYTER NOTEBOOK](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/Descriptive%20Statistics-Jupyter%20Notebook.ipynb)
 3. [Deliverables for Solution](#deliverables-for-solution)
+4. [License](#license)
+5. [Contact](#contact)
 
 ## Section 1: Theoretical Questions
 ### Question 1
@@ -162,8 +164,19 @@ For questions 8 to 20, we'll be using the Bank Personal Loan Modelling dataset a
 
 [JUPYTER NOTEBOOK](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/Descriptive%20Statistics-Jupyter%20Notebook.ipynb)
 
-### Deliverables for Solution
+## Deliverables for Solution
 - A Jupyter notebook detailing the steps.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shishir1991/Nile-MS_Excel_Project/blob/main/MS%20Excel%20Graded%20Project/LICENSE.txt) file for more details.
+
+## Contact
+For any further questions or contributions, please contact us:
+
+- Project Lead: Shishir KHerod
+- Email: shishirdma@gmail.com
+
+Thank you for visiting our project repository!
 
 
 
