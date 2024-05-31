@@ -10,8 +10,8 @@
    - [Question 6](#question-6)
    - [Question 7](#question-7)
 2. [Section 2: Practical Questions with Dataset](#section-2-practical-questions-with-dataset)
-   - [Question 8 to 20](#jupyter-notebook)
-3. [Deliverables for Solution and Grading Rubric](#deliverables-for-solution-and-grading-rubric)
+   - [Question 8 to 20](#JUPYTER-NOTEBOOK)
+3. [Deliverables for Solution](#deliverables-for-solution)
 
 ## Section 1: Theoretical Questions
 ### Question 1
@@ -161,6 +161,11 @@ You are expected to perform statistical analysis for the Bank Personal Loan Mode
 For questions 8 to 20, we'll be using the Bank Personal Loan Modelling dataset and Jupyter Notebook for answer the questions.
 
 [JUPYTER NOTEBOOK](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage/blob/main/Descriptive%20Statistics-Jupyter%20Notebook.ipynb)
+
+### Deliverables for Solution
+- A Jupyter notebook detailing the steps.
+
+
 
 
 
