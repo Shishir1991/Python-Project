@@ -89,8 +89,67 @@ Cumulative Frequency:
 - 45 to 55 years: 61 + 14 = 75
 - 55 to 65 years: 75 + 5 = 80
 
-  Since the total frequency is 80, the median would be the 40th value. Looking at the cumulative frequencies, the interval "35 to 45 years" (from 38 to 61) contains the 40th value.
-  So, the median class interval of age is "35 to 45 years."
+Since the total frequency is 80, the median would be the 40th value. Looking at the cumulative frequencies, the interval "35 to 45 years" (from 38 to 61) contains the 40th value.
+So, the median class interval of age is "35 to 45 years."
+
+### Question 5
+Assume you are the trader and you have invested over the years, and you are worried about the average return on investment. What average method would you use to compute the average return for the data given below?
+
+| Year | Return | Asset Price |
+|------|--------|-------------|
+| 2015 | 36%    | 5000        |
+| 2016 | 23%    | 6400        |
+| 2017 | -48%   | 7890        |
+| 2018 | -30%   | 9023        |
+| 2019 | 15%    | 4567        |
+| 2020 | 31%    | 3890        |
+
+- To compute the average return on investment, we’ll use the geometric mean. 
+- The geometric mean is particularly useful for calculating average rates of return over multiple periods, especially when dealing with percentages.
+
+A. Convert the return percentages to their decimal equivalents:
+
+     36% = 0.36, 23% = 0.23, -48% = -0.48, -30% = -0.30, 15% = 0.15, 31% = 0.31
+
+B. Add 1 to each decimal return value:
+
+     0.36 + 1 = 1.36, 0.23 + 1 = 1.23, -0.48 + 1 = 0.52, -0.30 + 1 = 0.70, 0.15 + 1 = 1.15, 0.31 + 1 = 1.31 
+    = ( 1.36 * 1.23 * 0.52 * 0.70 * 1.15 * 1.31 )1/6  - 1
+    = (0.9173066448)1/6 - 1
+    = 0.98571740091933 – 1
+    = -0.014282599080
+    = -1.42 %
+
+### Question 6
+Suppose you have been told to measure the average height of all the males on the earth. What would be your strategy for the same? Would the average height be a parameter or a statistic? Justify your answer.
+
+- To measure the average height of all males on Earth, my strategy would involve collecting a representative sample of male heights from different regions and populations across the globe. 
+- I would ensure that the sample is diverse and adequately represents the variability in male heights worldwide.
+- Once the sample is collected, I would calculate the mean height to estimate the average height of all males on Earth.
+
+### Question 7
+Calculate the z score of the following numbers:  
+X = [4.5, 6.2, 7.3, 9.1, 10.4, 11]
+
+- To calculate the z-score of each number in the given list, we use the formula:
+Z=X−μ/ σ
+X is the value in the list,
+μ is the mean of the list,
+σ is the standard deviation of the list.
+Mean (μ): 
+μ =(4.5+6.2+7.3+9.1+10.4+11)/6
+μ =8.08
+To calculate the standard deviation, we will first find the variance, then take the square root.
+Variance=((4.5−8.08)2+(6.2−8.08)2+(7.3−8.08)2+(9.1−8.08)2+(10.4−8.08)2+(11−8.08)2) / 6
+Variance=6.00772
+Standard deviation, σ= Cube root (6.00772) = 2.450
+So, for 
+X= 4.5, Z = −1.457
+X = 6.2, Z = −0.768
+X = 7.3, Z = −0.325
+X = 9.1, Z = 0.416
+X = 10.4, Z = 0.945
+X = 11, Z = 1.188
 
 
 
